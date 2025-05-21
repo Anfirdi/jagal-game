@@ -1,8 +1,6 @@
 # 🩸 Jagal Game 👣  
 **Horror Adventure Game built with Scratch**
 
-![jagal-banner](https://via.placeholder.com/800x200?text=Jagal+Game+Banner)
-
 ---
 
 ## 🕹️ Tentang Game
